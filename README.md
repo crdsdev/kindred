@@ -33,7 +33,9 @@ List tenant Kubernetes instances:
 kindred tenant list
 ```
 
-Get [kubeconfig] for a tenant instance:
+Get
+[kubeconfig](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
+for a tenant instance:
 ```
 kindred tenant config <instance-identifier>
 ```
